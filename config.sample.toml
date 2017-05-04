@@ -1,0 +1,6 @@
+[profile.default]
+client-id = "aaaaaaaaaa"
+client-secret = "bbbbbbbbbbbbbbbb"
+server = "https://login.server"
+e-mail = "your-name@your.domain"
+password = "yourpass"
